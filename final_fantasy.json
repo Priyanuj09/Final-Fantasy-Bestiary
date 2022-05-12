@@ -1,0 +1,424 @@
+{
+ "game": "Final Fantasy",
+ "bestiary": [
+  {
+   "count": 195
+  },
+  {
+   "name": "Goblin",
+   "hp": 8,
+   "attack": 4,
+   "accuracy": 4,
+   "defense": 4,
+   "agility": 3,
+   "intelligence": 1,
+   "evasion": 6,
+   "magic_defense": 16,
+   "gil": 6,
+   "exp": 6,
+   "treasure": [],
+   "weakness": [],
+   "resistance": []
+  },
+  {
+   "name": "Goblin Guard",
+   "hp": 16,
+   "attack": 8,
+   "accuracy": 4,
+   "defense": 6,
+   "agility": 5,
+   "intelligence": 3,
+   "evasion": 9,
+   "magic_defense": 23,
+   "gil": 18,
+   "exp": 18,
+   "treasure": [
+    "Potion"
+   ],
+   "weakness": [],
+   "resistance": []
+  },
+  {
+   "name": "Wolf",
+   "hp": 20,
+   "attack": 8,
+   "accuracy": 5,
+   "defense": 0,
+   "agility": 18,
+   "intelligence": 1,
+   "evasion": 36,
+   "magic_defense": 28,
+   "gil": 6,
+   "exp": 24,
+   "treasure": [],
+   "weakness": [],
+   "resistance": []
+  },
+  {
+   "name": "Crazy Horse",
+   "hp": 64,
+   "attack": 10,
+   "accuracy": 16,
+   "defense": 2,
+   "agility": 11,
+   "intelligence": 4,
+   "evasion": 22,
+   "magic_defense": 40,
+   "gil": 15,
+   "exp": 63,
+   "treasure": [
+    "Potion"
+   ],
+   "weakness": [],
+   "resistance": []
+  },
+  {
+   "name": "Skeleton",
+   "hp": 10,
+   "attack": 10,
+   "accuracy": 2,
+   "defense": 0,
+   "agility": 6,
+   "intelligence": 0,
+   "evasion": 12,
+   "magic_defense": 17,
+   "gil": 3,
+   "exp": 9,
+   "treasure": [
+    "Echo Grass"
+   ],
+   "weakness": [
+    "Fire",
+    "Dia"
+   ],
+   "resistance": [
+    "Ice",
+    "Stone",
+    "Paralysis",
+    "Poison",
+    "Darkness",
+    "Sleep",
+    "Silence",
+    "Confusion",
+    "Mind",
+    "Death"
+   ]
+  },
+  {
+   "name": "Black Widow",
+   "hp": 28,
+   "attack": 10,
+   "accuracy": 7,
+   "defense": 0,
+   "agility": 15,
+   "intelligence": 10,
+   "evasion": 30,
+   "magic_defense": 28,
+   "gil": 8,
+   "exp": 30,
+   "treasure": [],
+   "weakness": [],
+   "resistance": []
+  },
+  {
+   "name": "Gigas Worm",
+   "hp": 56,
+   "attack": 17,
+   "accuracy": 14,
+   "defense": 8,
+   "agility": 12,
+   "intelligence": 9,
+   "evasion": 24,
+   "magic_defense": 40,
+   "gil": 15,
+   "exp": 63,
+   "treasure": [],
+   "weakness": [
+    "Fire"
+   ],
+   "resistance": []
+  },
+  {
+   "name": "Warg Wolf",
+   "hp": 72,
+   "attack": 14,
+   "accuracy": 18,
+   "defense": 0,
+   "agility": 27,
+   "intelligence": 3,
+   "evasion": 54,
+   "magic_defense": 46,
+   "gil": 22,
+   "exp": 93,
+   "treasure": [
+    "Antidote"
+   ],
+   "weakness": [],
+   "resistance": []
+  },
+  {
+   "name": "Werewolf",
+   "hp": 68,
+   "attack": 14,
+   "accuracy": 17,
+   "defense": 6,
+   "agility": 21,
+   "intelligence": 8,
+   "evasion": 42,
+   "magic_defense": 45,
+   "gil": 67,
+   "exp": 135,
+   "treasure": [],
+   "weakness": [],
+   "resistance": []
+  },
+  {
+   "name": "Zombie",
+   "hp": 20,
+   "attack": 10,
+   "accuracy": 5,
+   "defense": 0,
+   "agility": 3,
+   "intelligence": 0,
+   "evasion": 6,
+   "magic_defense": 25,
+   "gil": 12,
+   "exp": 24,
+   "treasure": [
+    "Staff"
+   ],
+   "weakness": [
+    "Fire",
+    "Dia"
+   ],
+   "resistance": [
+    "Quake",
+    "Ice",
+    "Stone",
+    "Paralysis",
+    "Poison",
+    "Darkness",
+    "Sleep",
+    "Silence",
+    "Confusion",
+    "Mind",
+    "Death"
+   ]
+  },
+  {
+   "name": "Ghoul",
+   "hp": 48,
+   "attack": 8,
+   "accuracy": 12,
+   "defense": 6,
+   "agility": 6,
+   "intelligence": 1,
+   "evasion": 12,
+   "magic_defense": 36,
+   "gil": 50,
+   "exp": 93,
+   "treasure": [],
+   "weakness": [
+    "Fire",
+    "Dia"
+   ],
+   "resistance": [
+    "Ice",
+    "Stone",
+    "Paralysis",
+    "Poison",
+    "Darkness",
+    "Sleep",
+    "Silence",
+    "Confusion",
+    "Mind",
+    "Death"
+   ]
+  },
+  {
+   "name": "Garland",
+   "hp": 212,
+   "attack": 15,
+   "accuracy": 27,
+   "defense": 8,
+   "agility": 6,
+   "intelligence": 12,
+   "evasion": 12,
+   "magic_defense": 64,
+   "gil": 250,
+   "exp": 130,
+   "treasure": [
+    "Longsword"
+   ],
+   "weakness": [],
+   "resistance": []
+  },
+  {
+   "name": "Cobra",
+   "hp": 56,
+   "attack": 6,
+   "accuracy": 14,
+   "defense": 6,
+   "agility": 15,
+   "intelligence": 6,
+   "evasion": 30,
+   "magic_defense": 46,
+   "gil": 50,
+   "exp": 123,
+   "treasure": [],
+   "weakness": [],
+   "resistance": []
+  },
+  {
+   "name": "Ogre",
+   "hp": 100,
+   "attack": 18,
+   "accuracy": 25,
+   "defense": 10,
+   "agility": 9,
+   "intelligence": 4,
+   "evasion": 18,
+   "magic_defense": 65,
+   "gil": 195,
+   "exp": 195,
+   "treasure": [],
+   "weakness": [],
+   "resistance": []
+  },
+  {
+   "name": "Ogre Chief",
+   "hp": 132,
+   "attack": 23,
+   "accuracy": 33,
+   "defense": 14,
+   "agility": 15,
+   "intelligence": 6,
+   "evasion": 30,
+   "magic_defense": 71,
+   "gil": 300,
+   "exp": 282,
+   "treasure": [],
+   "weakness": [],
+   "resistance": []
+  },
+  {
+   "name": "Lizard",
+   "hp": 92,
+   "attack": 18,
+   "accuracy": 23,
+   "defense": 12,
+   "agility": 12,
+   "intelligence": 3,
+   "evasion": 24,
+   "magic_defense": 55,
+   "gil": 50,
+   "exp": 153,
+   "treasure": [],
+   "weakness": [],
+   "resistance": []
+  },
+  {
+   "name": "Pirate",
+   "hp": 24,
+   "attack": 10,
+   "accuracy": 2,
+   "defense": 0,
+   "agility": 6,
+   "intelligence": 3,
+   "evasion": 12,
+   "magic_defense": 35,
+   "gil": 40,
+   "exp": 40,
+   "treasure": [
+    "Leather Shield"
+   ],
+   "weakness": [],
+   "resistance": []
+  },
+  {
+   "name": "Sahagin",
+   "hp": 28,
+   "attack": 10,
+   "accuracy": 7,
+   "defense": 4,
+   "agility": 36,
+   "intelligence": 4,
+   "evasion": 72,
+   "magic_defense": 28,
+   "gil": 30,
+   "exp": 30,
+   "treasure": [
+    "Potion"
+   ],
+   "weakness": [
+    "Lightning"
+   ],
+   "resistance": [
+    "Quake",
+    "Fire"
+   ]
+  },
+  {
+   "name": "Sahagin Chief",
+   "hp": 64,
+   "attack": 15,
+   "accuracy": 16,
+   "defense": 8,
+   "agility": 39,
+   "intelligence": 7,
+   "evasion": 78,
+   "magic_defense": 46,
+   "gil": 105,
+   "exp": 105,
+   "treasure": [],
+   "weakness": [
+    "Lightning"
+   ],
+   "resistance": [
+    "Quake",
+    "Fire"
+   ]
+  },
+  {
+   "name": "Buccaneer",
+   "hp": 50,
+   "attack": 14,
+   "accuracy": 13,
+   "defense": 6,
+   "agility": 12,
+   "intelligence": 6,
+   "evasion": 24,
+   "magic_defense": 37,
+   "gil": 120,
+   "exp": 60,
+   "treasure": [
+    "Saber"
+   ],
+   "weakness": [],
+   "resistance": [
+    "Quake"
+   ]
+  },
+  {
+   "name": "Shark",
+   "hp": 120,
+   "attack": 22,
+   "accuracy": 30,
+   "defense": 0,
+   "agility": 36,
+   "intelligence": 8,
+   "evasion": 72,
+   "magic_defense": 70,
+   "gil": 66,
+   "exp": 267,
+   "treasure": [],
+   "weakness": [
+    "Lightning"
+   ],
+   "resistance": [
+    "Quake",
+    "Fire"
+   ]
+  }
+ ]
+}

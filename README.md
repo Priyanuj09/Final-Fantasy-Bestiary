@@ -4,8 +4,8 @@ A complete bestiary list of Final Fantasy games _(only main titles at the moment
 You can freely use this as source material in your APIs or can get this data directly by HTTP GET request.
 
 ## List of Games
-- Final Fantasy _(In Progress)_
-- Final Fantasy II _(Soon)_
+- [Final Fantasy](https://github.com/Priyanuj09/Final-Fantasy-Bestiary/tree/main/Final%20Fantasy)
+- Final Fantasy II _(In Progress)_
 - Final Fantasy III _(Soon)_
 - Final Fantasy IV _(Soon)_
 - Final Fantasy V _(Soon)_

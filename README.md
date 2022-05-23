@@ -5,7 +5,7 @@ You can freely use this as source material in your APIs or can get this data dir
 
 ## List of Games
 - [Final Fantasy](https://github.com/Priyanuj09/Final-Fantasy-Bestiary/tree/main/Final%20Fantasy)
-- Final Fantasy II _(Soon)_
+- Final Fantasy II _(In Progress)_
 - Final Fantasy III _(Soon)_
 - Final Fantasy IV _(Soon)_
 - Final Fantasy V _(Soon)_
